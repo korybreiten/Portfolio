@@ -1,0 +1,23 @@
+#App {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+
+#Navbar {
+  background-color: lightseagreen;
+  height: 10vh;
+}
+
+
+#Content {
+  background-color: darkslategray;
+  min-height: 80vh;
+}
+
+
+#Footer {
+  background-color: cadetblue;
+  height: 10vh;
+}
